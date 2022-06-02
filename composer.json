@@ -1,7 +1,7 @@
 {
 	"name": "acaodireta-php/iugu",
 	"type": "library",
-	"description": "Biblioteca não oficial de integração com a API da Iugu",
+	"description": "Biblioteca não oficial de integração com a API da Iugu.",
 	"keywords": [
 		"iugu",
 		"inboud"
